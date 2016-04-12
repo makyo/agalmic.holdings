@@ -70,7 +70,7 @@ digraph agalmic_holdings {
 	"JNSQ" [URL = "http://jnsq.us"]
 	"agalmic.holdings" -> "JNSQ"
 
-		"Warren" [URL = "warren.community"]
+		"Warren" [URL = "https://warren.community"]
 		"JNSQ" -> "Warren"
 
 		"Trans Stock Photography" [URL = "transstock.photography"]
@@ -81,4 +81,13 @@ digraph agalmic_holdings {
 
 	"ARTEMIS PRODUCTIONS" [URL = "http://artemis.productions"]
 	"agalmic.holdings" -> "ARTEMIS PRODUCTIONS"
+
+	"IP accounts" [shape = "diamond"]
+	"agalmic.holdings" -> "IP accounts"
+
+		"GitHub" [URL = "https://github.com/makyo"]
+		"IP accounts" -> "GitHub"
+
+		"Launchpad" [URL = "https://launchpad.net/~makyo"]
+		"IP accounts" -> "Launchpad"
 }

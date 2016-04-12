@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the basic structure of Agalmic Holdings:
+This is the basic structure of agalmic.holdings:
 
 <div class="assets">{% include assets.svg %}</div>
 

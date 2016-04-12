@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Agalmic Holdings comprises a variety of organizations and intellectual properties.  These resources are intended to be free *forever*.  In the event of incapacitation, many of the resources move into the public domain, organizations inherited with a clause that specifies that the assets held by that organization remain held with their current license(s).
+agalmic.holdings comprises a variety of organizations and intellectual properties.  These resources are intended to be free *forever*.  In the event of incapacitation, many of the resources move into the public domain, organizations inherited with a clause that specifies that the assets held by that organization remain held with their current license(s).
 
 <div class="home">
 
