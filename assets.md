@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Assets
+permalink: /assets/
 ---
 
 This is the basic structure of agalmic.holdings:
