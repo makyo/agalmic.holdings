@@ -1,5 +1,5 @@
 digraph agalmic_holdings {
-	graph [rankdir="LR" size="7.5,6" ratio="fill"]
+	graph [rankdir="LR" size="7.5,7" ratio="fill"]
 	node [fontname="Antykwa Torunska"]
 
 	"agalmic.holdings" [URL="http://agalmic.holdings"]
@@ -64,18 +64,33 @@ digraph agalmic_holdings {
 		"GitHub" [shape="diamond"]
 		"IP accounts" -> "GitHub"
 
-			"Makyo @ GitHub" [URL="https://github.com/makyo"]
+			"Makyo @ GitHub" [URL="https://github.com/makyo" shape="rect"]
 			"GitHub" -> "Makyo @ GitHub"
 
-			"[a][s] @ GitHub" [URL="https://github.com/adjspecies"]
+			"[a][s] @ GitHub" [URL="https://github.com/adjspecies" shape="rect"]
 			"GitHub" -> "[a][s] @ GitHub"
 
-			"OpenFurry @ GitHub" [URL="https://github.com/openfurry"]
+			"OpenFurry @ GitHub" [URL="https://github.com/openfurry" shape="rect"]
 			"GitHub" -> "OpenFurry @ GitHub"
 
-			"Warren @ GitHub" [URL="https://github.com/warren-community"]
+			"Warren @ GitHub" [URL="https://github.com/warren-community" shape="rect"]
 			"GitHub" -> "Warren @ GitHub"
 
-		"Launchpad" [URL="https://launchpad.net/~makyo"]
+		"Launchpad" [URL="https://launchpad.net/~makyo" shape="rect"]
 		"IP accounts" -> "Launchpad"
+
+	subgraph cluster {
+		label = "Legend"
+		ranksep = ".1"
+		rankdir = "LR"
+		edge [style="invis"]
+
+		"Organization"
+
+		"Collection of assets" [shape="diamond"]
+
+		"Account on external service" [shape="rect"]
+
+		"Organization" -> "Collection of assets" -> "Account on external service"
+	}
 }
