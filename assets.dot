@@ -70,6 +70,9 @@ digraph agalmic_holdings {
 	"JNSQ" [URL = "http://jnsq.us"]
 	"agalmic.holdings" -> "JNSQ"
 
+		"IdeaWheel" [URL = "http://ideas.jnsq.us"]
+		"JNSQ" -> "IdeaWheel"
+		
 		"Warren" [URL = "https://warren.community"]
 		"JNSQ" -> "Warren"
 
