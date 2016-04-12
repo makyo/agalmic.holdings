@@ -1,0 +1,84 @@
+digraph agalmic_holdings {
+	node [fontname = "Antykwa Torunska"]
+
+	"agalmic.holdings" [URL = "http://agalmic.holdings"]
+
+	"OpenFurry" [URL = "http://openfurry.org"]
+	"agalmic.holdings" -> "OpenFurry"
+
+		"[adjective][species], Ltd." [URL = "http://adjectivespecies.com"]
+		"OpenFurry" -> "[adjective][species], Ltd."
+
+			/*"[adjective][species]" [URL = "http://adjectivespecies.com"]
+			"[adjective][species], Ltd." -> "[adjective][species]"
+
+
+			"Love ◦ Sex ◦ Fur" [URL = "http://lovesexfur.com"]
+			"[adjective][species], Ltd." -> "Love ◦ Sex ◦ Fur"
+
+			"The Furry Poll" [URL = "https://furrypoll.com"]
+			"[adjective][species], Ltd." -> "The Furry Poll"
+
+			asAccounts [label = "[a][s] Accounts"]
+			"[adjective][species], Ltd." -> asAccounts
+
+				"[a][s] on Twitter" [URL = "https://twitter.com/adjspecies"]
+				asAccounts -> "[a][s] on Twitter"
+
+				"LSF on Twitter" [URL = "https://twitter.com/lovesexfur"]
+				asAccounts -> "LSF on Twitter"
+
+				"[a][s] on Slack" [URL = "https://adjectivespecies.slack.com"]
+				asAccounts -> "[a][s] on Slack"
+
+				"[a][s] on GitHub" [URL = "https://github.com/adjspecies"]
+				asAccounts -> "[a][s] on GitHub"*/
+
+		"Hybrid" [URL = "http://hybrid.ink"]
+		"OpenFurry" -> "Hybrid"
+
+			/*hybridAccounts [label = "Hybrid accounts"]
+			"Hybrid" -> hybridAccounts
+
+				"Hybrid on Twitter" [URL = "https://twitter.com/hybrid_ink"]
+				hybridAccounts -> "Hybrid on Twitter"*/
+
+		"Characters" [URL = "http://characters.openfurry.org"]
+		"OpenFurry" -> "Characters"
+
+	"Drab Makyo" [URL = "http://drab-makyo.com"]
+	"agalmic.holdings" -> "Drab Makyo"
+
+		/*"Writing | Drab Makyo" [URL = "http://writing.drab-makyo.com"]
+		"Drab Makyo" -> "Writing | Drab Makyo"
+
+		"Photography" [URL = "http://makyo.photography"]
+		"Drab Makyo" -> "Photography"
+
+		dmAccounts [label = "Drab Makyo accounts"]
+		"Drab Makyo" -> dmAccounts
+
+			"(Personal Accounts)" [shape = "diamond"]
+			dmAccounts -> "(Personal Accounts)"
+
+			"Madison on GitHub" [URL = "https://github.com/makyo"]
+			dmAccounts -> "Madison on GitHub"
+
+			"Madison on Launchpad" [URL = "https://launchpad.net/~makyo"]
+			dmAccounts -> "Madison on Launchpad"*/
+
+	"JNSQ" [URL = "http://jnsq.us"]
+	"agalmic.holdings" -> "JNSQ"
+
+		"Warren" [URL = "warren.community"]
+		"JNSQ" -> "Warren"
+
+		"Trans Stock Photography" [URL = "transstock.photography"]
+		"JNSQ" -> "Trans Stock Photography"
+
+		/*"polycul.es" [URL = "http://polycul.es"]
+		"JNSQ" -> "polycul.es"*/
+
+	"ARTEMIS PRODUCTIONS" [URL = "http://artemis.productions"]
+	"agalmic.holdings" -> "ARTEMIS PRODUCTIONS"
+}
