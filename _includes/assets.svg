@@ -2,356 +2,356 @@
  -->
 <!-- Title: agalmic_holdings Pages: 1 -->
 <svg width="539pt" height="504pt"
- viewBox="0.00 0.00 539.34 504.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(0.548585 0.548585) rotate(0) translate(4 914.728)">
+ viewBox="0.00 0.00 539.35 504.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(0.507743 0.507743) rotate(0) translate(4 988.629)">
 <title>agalmic_holdings</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-914.728 979.155,-914.728 979.155,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-988.629 1058.25,-988.629 1058.25,4 -4,4"/>
 <g id="clust1" class="cluster"><title>cluster</title>
-<polygon fill="none" stroke="black" points="9.48363,-783.108 9.48363,-896.707 735.051,-896.707 735.051,-783.108 9.48363,-783.108"/>
-<text text-anchor="middle" x="372.267" y="-881.507" font-family="Times,serif" font-size="14.00">Legend</text>
+<polygon fill="none" stroke="black" points="9.48363,-803.858 9.48363,-920.467 735.051,-920.467 735.051,-803.858 9.48363,-803.858"/>
+<text text-anchor="middle" x="372.267" y="-905.267" font-family="Times,serif" font-size="14.00">Legend</text>
 </g>
 <!-- agalmic.holdings -->
 <g id="node1" class="node"><title>agalmic.holdings</title>
 <g id="a_node1"><a xlink:href="http://agalmic.holdings" xlink:title="agalmic.holdings">
-<ellipse fill="none" stroke="black" cx="87.1552" cy="-335.737" rx="87.1392" ry="19.7049"/>
-<text text-anchor="middle" x="87.1552" y="-334.398" font-family="Antykwa Torunska" font-size="14.00">agalmic.holdings</text>
+<ellipse fill="none" stroke="black" cx="87.2484" cy="-345.352" rx="87.1392" ry="19.7049"/>
+<text text-anchor="middle" x="87.2484" y="-344.013" font-family="Antykwa Torunska" font-size="14.00">agalmic.holdings</text>
 </a>
 </g>
 </g>
 <!-- OpenFurry -->
 <g id="node2" class="node"><title>OpenFurry</title>
 <g id="a_node2"><a xlink:href="http://openfurry.org" xlink:title="OpenFurry">
-<ellipse fill="none" stroke="black" cx="333.155" cy="-645.737" rx="62.4946" ry="19.7049"/>
-<text text-anchor="middle" x="333.155" y="-644.398" font-family="Antykwa Torunska" font-size="14.00">OpenFurry</text>
+<ellipse fill="none" stroke="black" cx="333.248" cy="-662.352" rx="62.4946" ry="19.7049"/>
+<text text-anchor="middle" x="333.248" y="-661.013" font-family="Antykwa Torunska" font-size="14.00">OpenFurry</text>
 </a>
 </g>
 </g>
 <!-- agalmic.holdings&#45;&gt;OpenFurry -->
 <g id="edge1" class="edge"><title>agalmic.holdings&#45;&gt;OpenFurry</title>
-<path fill="none" stroke="black" d="M98.5784,-355.42C116.018,-387.606 153.073,-452.906 192.222,-502.737 227.088,-547.117 274.065,-592.767 303.735,-620.197"/>
-<polygon fill="black" stroke="black" points="301.52,-622.915 311.253,-627.1 306.254,-617.759 301.52,-622.915"/>
+<path fill="none" stroke="black" d="M98.4009,-364.821C115.736,-397.338 152.999,-464.172 192.315,-515.352 227.388,-561.009 274.697,-608.27 304.333,-636.486"/>
+<polygon fill="black" stroke="black" points="302.163,-639.251 311.834,-643.58 306.973,-634.166 302.163,-639.251"/>
 </g>
 <!-- Drab Makyo -->
 <g id="node11" class="node"><title>Drab Makyo</title>
 <g id="a_node11"><a xlink:href="http://drab-makyo.com" xlink:title="Drab Makyo">
-<ellipse fill="none" stroke="black" cx="333.155" cy="-473.737" rx="68.3004" ry="19.7049"/>
-<text text-anchor="middle" x="333.155" y="-472.398" font-family="Antykwa Torunska" font-size="14.00">Drab Makyo</text>
+<ellipse fill="none" stroke="black" cx="333.248" cy="-486.352" rx="68.3004" ry="19.7049"/>
+<text text-anchor="middle" x="333.248" y="-485.013" font-family="Antykwa Torunska" font-size="14.00">Drab Makyo</text>
 </a>
 </g>
 </g>
 <!-- agalmic.holdings&#45;&gt;Drab Makyo -->
 <g id="edge10" class="edge"><title>agalmic.holdings&#45;&gt;Drab Makyo</title>
-<path fill="none" stroke="black" d="M120.305,-353.92C164.557,-378.948 244.2,-423.992 292.219,-451.15"/>
-<polygon fill="black" stroke="black" points="290.665,-454.292 301.092,-456.168 294.111,-448.199 290.665,-454.292"/>
+<path fill="none" stroke="black" d="M120.147,-363.785C164.564,-389.452 244.98,-435.922 293.012,-463.679"/>
+<polygon fill="black" stroke="black" points="291.468,-466.828 301.877,-468.801 294.97,-460.768 291.468,-466.828"/>
 </g>
 <!-- JNSQ -->
 <g id="node14" class="node"><title>JNSQ</title>
 <g id="a_node14"><a xlink:href="http://jnsq.us" xlink:title="JNSQ">
-<ellipse fill="none" stroke="black" cx="333.155" cy="-335.737" rx="36.2413" ry="19.7049"/>
-<text text-anchor="middle" x="333.155" y="-334.398" font-family="Antykwa Torunska" font-size="14.00">JNSQ</text>
+<ellipse fill="none" stroke="black" cx="333.248" cy="-345.352" rx="36.2413" ry="19.7049"/>
+<text text-anchor="middle" x="333.248" y="-344.013" font-family="Antykwa Torunska" font-size="14.00">JNSQ</text>
 </a>
 </g>
 </g>
 <!-- agalmic.holdings&#45;&gt;JNSQ -->
 <g id="edge13" class="edge"><title>agalmic.holdings&#45;&gt;JNSQ</title>
-<path fill="none" stroke="black" d="M174.524,-335.737C212.337,-335.737 255.155,-335.737 286.613,-335.737"/>
-<polygon fill="black" stroke="black" points="286.822,-339.237 296.822,-335.737 286.822,-332.237 286.822,-339.237"/>
+<path fill="none" stroke="black" d="M174.617,-345.352C212.43,-345.352 255.249,-345.352 286.706,-345.352"/>
+<polygon fill="black" stroke="black" points="286.915,-348.852 296.915,-345.352 286.915,-341.852 286.915,-348.852"/>
 </g>
 <!-- ARTEMIS PRODUCTIONS -->
 <g id="node19" class="node"><title>ARTEMIS PRODUCTIONS</title>
 <g id="a_node19"><a xlink:href="http://artemis.productions" xlink:title="ARTEMIS PRODUCTIONS">
-<ellipse fill="none" stroke="black" cx="333.155" cy="-266.737" rx="134.3" ry="19.7049"/>
-<text text-anchor="middle" x="333.155" y="-265.398" font-family="Antykwa Torunska" font-size="14.00">ARTEMIS PRODUCTIONS</text>
+<ellipse fill="none" stroke="black" cx="333.248" cy="-274.352" rx="134.3" ry="19.7049"/>
+<text text-anchor="middle" x="333.248" y="-273.013" font-family="Antykwa Torunska" font-size="14.00">ARTEMIS PRODUCTIONS</text>
 </a>
 </g>
 </g>
 <!-- agalmic.holdings&#45;&gt;ARTEMIS PRODUCTIONS -->
 <g id="edge18" class="edge"><title>agalmic.holdings&#45;&gt;ARTEMIS PRODUCTIONS</title>
-<path fill="none" stroke="black" d="M142.307,-320.424C177.105,-310.583 222.701,-297.689 260.487,-287.004"/>
-<polygon fill="black" stroke="black" points="261.746,-290.285 270.416,-284.196 259.841,-283.549 261.746,-290.285"/>
+<path fill="none" stroke="black" d="M141.494,-329.858C176.763,-319.595 223.415,-306.02 261.755,-294.864"/>
+<polygon fill="black" stroke="black" points="263.196,-298.09 271.82,-291.936 261.24,-291.369 263.196,-298.09"/>
 </g>
 <!-- IP accounts -->
 <g id="node20" class="node"><title>IP accounts</title>
-<polygon fill="none" stroke="black" points="333.155,-147.682 242.7,-119.737 333.155,-91.7919 423.61,-119.737 333.155,-147.682"/>
-<text text-anchor="middle" x="333.155" y="-118.398" font-family="Antykwa Torunska" font-size="14.00">IP accounts</text>
+<polygon fill="none" stroke="black" points="333.248,-150.297 242.793,-122.352 333.248,-94.4067 423.704,-122.352 333.248,-150.297"/>
+<text text-anchor="middle" x="333.248" y="-121.013" font-family="Antykwa Torunska" font-size="14.00">IP accounts</text>
 </g>
 <!-- agalmic.holdings&#45;&gt;IP accounts -->
 <g id="edge19" class="edge"><title>agalmic.holdings&#45;&gt;IP accounts</title>
-<path fill="none" stroke="black" d="M107.804,-316.621C128.507,-296.626 162.209,-264.487 192.222,-237.737 228.28,-205.599 270.85,-170.026 299.488,-146.427"/>
-<polygon fill="black" stroke="black" points="302.041,-148.858 307.541,-139.803 297.595,-143.452 302.041,-148.858"/>
+<path fill="none" stroke="black" d="M107.949,-325.916C128.694,-305.569 162.429,-272.82 192.315,-245.352 228.884,-211.74 271.933,-174.194 300.529,-149.528"/>
+<polygon fill="black" stroke="black" points="302.9,-152.105 308.193,-142.927 298.332,-146.801 302.9,-152.105"/>
 </g>
 <!-- as -->
 <g id="node3" class="node"><title>as</title>
 <g id="a_node3"><a xlink:href="http://adjectivespecies.com" xlink:title="[adjective][species], Ltd.">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-749.737" rx="116.057" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-748.398" font-family="Antykwa Torunska" font-size="14.00">[adjective][species], Ltd.</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-769.352" rx="116.057" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-768.013" font-family="Antykwa Torunska" font-size="14.00">[adjective][species], Ltd.</text>
 </a>
 </g>
 </g>
 <!-- OpenFurry&#45;&gt;as -->
 <g id="edge2" class="edge"><title>OpenFurry&#45;&gt;as</title>
-<path fill="none" stroke="black" d="M370.202,-661.505C402.009,-675.133 449.792,-694.917 492.305,-709.737 513.148,-717.003 536.081,-724.093 557.074,-730.236"/>
-<polygon fill="black" stroke="black" points="556.306,-733.658 566.886,-733.08 558.255,-726.934 556.306,-733.658"/>
+<path fill="none" stroke="black" d="M370.319,-678.265C402.142,-692.042 449.934,-712.096 492.398,-727.352 514.157,-735.169 538.177,-742.888 559.893,-749.534"/>
+<polygon fill="black" stroke="black" points="559.106,-752.953 569.691,-752.509 561.139,-746.255 559.106,-752.953"/>
 </g>
 <!-- Hybrid -->
 <g id="node9" class="node"><title>Hybrid</title>
 <g id="a_node9"><a xlink:href="http://hybrid.ink" xlink:title="Hybrid">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-680.737" rx="42.766" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-679.398" font-family="Antykwa Torunska" font-size="14.00">Hybrid</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-698.352" rx="42.766" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-697.013" font-family="Antykwa Torunska" font-size="14.00">Hybrid</text>
 </a>
 </g>
 </g>
 <!-- OpenFurry&#45;&gt;Hybrid -->
 <g id="edge8" class="edge"><title>OpenFurry&#45;&gt;Hybrid</title>
-<path fill="none" stroke="black" d="M391.539,-652.568C445.588,-659.003 525.775,-668.549 577.507,-674.708"/>
-<polygon fill="black" stroke="black" points="577.114,-678.185 587.458,-675.892 577.942,-671.234 577.114,-678.185"/>
+<path fill="none" stroke="black" d="M391.633,-669.378C445.682,-675.997 525.868,-685.815 577.6,-692.15"/>
+<polygon fill="black" stroke="black" points="577.2,-695.627 587.551,-693.368 578.051,-688.679 577.2,-695.627"/>
 </g>
 <!-- Characters -->
 <g id="node10" class="node"><title>Characters</title>
 <g id="a_node10"><a xlink:href="http://characters.openfurry.org" xlink:title="Characters">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-611.737" rx="61.9795" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-610.398" font-family="Antykwa Torunska" font-size="14.00">Characters</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-627.352" rx="61.9795" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-626.013" font-family="Antykwa Torunska" font-size="14.00">Characters</text>
 </a>
 </g>
 </g>
 <!-- OpenFurry&#45;&gt;Characters -->
 <g id="edge9" class="edge"><title>OpenFurry&#45;&gt;Characters</title>
-<path fill="none" stroke="black" d="M391.889,-639.06C440.412,-633.449 509.817,-625.422 560.853,-619.52"/>
-<polygon fill="black" stroke="black" points="561.272,-622.995 570.804,-618.37 560.468,-616.042 561.272,-622.995"/>
+<path fill="none" stroke="black" d="M391.633,-655.52C440.277,-649.729 510.092,-641.418 561.282,-635.324"/>
+<polygon fill="black" stroke="black" points="561.743,-638.794 571.259,-634.136 560.916,-631.843 561.743,-638.794"/>
 </g>
 <!-- [a][s] Blog -->
 <g id="node4" class="node"><title>[a][s] Blog</title>
 <g id="a_node4"><a xlink:href="http://adjectivespecies.com" xlink:title="[a][s] Blog">
-<ellipse fill="none" stroke="black" cx="880.155" cy="-886.737" rx="56.0709" ry="19.7049"/>
-<text text-anchor="middle" x="880.155" y="-885.398" font-family="Antykwa Torunska" font-size="14.00">[a][s] Blog</text>
+<polygon fill="none" stroke="black" points="919.248,-978.297 839.755,-950.352 919.248,-922.407 998.741,-950.352 919.248,-978.297"/>
+<text text-anchor="middle" x="919.248" y="-949.013" font-family="Antykwa Torunska" font-size="14.00">[a][s] Blog</text>
 </a>
 </g>
 </g>
 <!-- as&#45;&gt;[a][s] Blog -->
 <g id="edge3" class="edge"><title>as&#45;&gt;[a][s] Blog</title>
-<path fill="none" stroke="black" d="M732.733,-758.713C745.016,-763.34 756.535,-769.798 766.006,-778.737 788.798,-800.25 764.035,-823.157 784.681,-846.737 794.884,-858.389 809.055,-866.741 823.322,-872.689"/>
-<polygon fill="black" stroke="black" points="822.079,-875.961 832.67,-876.262 824.578,-869.422 822.079,-875.961"/>
+<path fill="none" stroke="black" d="M732.235,-778.683C744.916,-783.621 756.702,-790.594 766.099,-800.352 796.218,-831.628 756.683,-862.787 784.228,-896.352 801.866,-917.845 829.355,-930.85 854.857,-938.687"/>
+<polygon fill="black" stroke="black" points="853.932,-942.062 864.509,-941.444 855.855,-935.332 853.932,-942.062"/>
 </g>
 <!-- [a][s] Visualizations -->
 <g id="node5" class="node"><title>[a][s] Visualizations</title>
 <g id="a_node5"><a xlink:href="http://vis.adjectivespecies.com" xlink:title="[a][s] Visualizations">
-<ellipse fill="none" stroke="black" cx="880.155" cy="-817.737" rx="95.4478" ry="19.7049"/>
-<text text-anchor="middle" x="880.155" y="-816.398" font-family="Antykwa Torunska" font-size="14.00">[a][s] Visualizations</text>
+<polygon fill="none" stroke="black" points="919.248,-887.297 784.207,-859.352 919.248,-831.407 1054.29,-859.352 919.248,-887.297"/>
+<text text-anchor="middle" x="919.248" y="-858.013" font-family="Antykwa Torunska" font-size="14.00">[a][s] Visualizations</text>
 </a>
 </g>
 </g>
 <!-- as&#45;&gt;[a][s] Visualizations -->
 <g id="edge4" class="edge"><title>as&#45;&gt;[a][s] Visualizations</title>
-<path fill="none" stroke="black" d="M706.714,-764.377C726.167,-768.562 746.953,-773.441 766.006,-778.737 785.096,-784.044 805.665,-790.808 823.961,-797.209"/>
-<polygon fill="black" stroke="black" points="822.989,-800.577 833.584,-800.613 825.324,-793.978 822.989,-800.577"/>
+<path fill="none" stroke="black" d="M704.796,-784.31C724.856,-788.891 746.437,-794.331 766.099,-800.352 784.874,-806.101 827.924,-822.922 863.457,-837.139"/>
+<polygon fill="black" stroke="black" points="862.196,-840.404 872.78,-840.878 864.801,-833.907 862.196,-840.404"/>
 </g>
 <!-- The Furry Poll -->
 <g id="node6" class="node"><title>The Furry Poll</title>
 <g id="a_node6"><a xlink:href="https://furrypoll.com" xlink:title="The Furry Poll">
-<ellipse fill="none" stroke="black" cx="880.155" cy="-749.737" rx="78.0034" ry="19.7049"/>
-<text text-anchor="middle" x="880.155" y="-748.398" font-family="Antykwa Torunska" font-size="14.00">The Furry Poll</text>
+<polygon fill="none" stroke="black" points="919.248,-797.297 808.42,-769.352 919.248,-741.407 1030.08,-769.352 919.248,-797.297"/>
+<text text-anchor="middle" x="919.248" y="-768.013" font-family="Antykwa Torunska" font-size="14.00">The Furry Poll</text>
 </a>
 </g>
 </g>
 <!-- as&#45;&gt;The Furry Poll -->
 <g id="edge5" class="edge"><title>as&#45;&gt;The Furry Poll</title>
-<path fill="none" stroke="black" d="M745.544,-749.737C761.048,-749.737 776.742,-749.737 791.656,-749.737"/>
-<polygon fill="black" stroke="black" points="791.845,-753.237 801.845,-749.737 791.845,-746.237 791.845,-753.237"/>
+<path fill="none" stroke="black" d="M745.73,-769.352C762.997,-769.352 780.835,-769.352 798.195,-769.352"/>
+<polygon fill="black" stroke="black" points="798.354,-772.852 808.354,-769.352 798.354,-765.852 798.354,-772.852"/>
 </g>
 <!-- Love ◦ Sex ◦ Fur -->
 <g id="node7" class="node"><title>Love ◦ Sex ◦ Fur</title>
 <g id="a_node7"><a xlink:href="http://lovesexfur.com" xlink:title="Love ◦ Sex ◦ Fur">
-<ellipse fill="none" stroke="black" cx="880.155" cy="-680.737" rx="88.5782" ry="19.7049"/>
-<text text-anchor="middle" x="880.155" y="-679.398" font-family="Antykwa Torunska" font-size="14.00">Love ◦ Sex ◦ Fur</text>
+<polygon fill="none" stroke="black" points="919.248,-706.297 793.616,-678.352 919.248,-650.407 1044.88,-678.352 919.248,-706.297"/>
+<text text-anchor="middle" x="919.248" y="-677.013" font-family="Antykwa Torunska" font-size="14.00">Love ◦ Sex ◦ Fur</text>
 </a>
 </g>
 </g>
 <!-- as&#45;&gt;Love ◦ Sex ◦ Fur -->
 <g id="edge6" class="edge"><title>as&#45;&gt;Love ◦ Sex ◦ Fur</title>
-<path fill="none" stroke="black" d="M690.431,-733.034C727.822,-722.673 775.856,-709.362 814.106,-698.763"/>
-<polygon fill="black" stroke="black" points="815.409,-702.034 824.111,-695.99 813.54,-695.288 815.409,-702.034"/>
+<path fill="none" stroke="black" d="M686.145,-752.232C710.695,-744.671 739.85,-735.636 766.099,-727.352 796.401,-717.789 830.033,-706.978 857.956,-697.948"/>
+<polygon fill="black" stroke="black" points="859.143,-701.243 867.579,-694.834 856.988,-694.583 859.143,-701.243"/>
 </g>
 <!-- LSF Guides -->
 <g id="node8" class="node"><title>LSF Guides</title>
 <g id="a_node8"><a xlink:href="http://guides.lovesexfur.com" xlink:title="LSF Guides">
-<ellipse fill="none" stroke="black" cx="880.155" cy="-611.737" rx="63.4008" ry="19.7049"/>
-<text text-anchor="middle" x="880.155" y="-610.398" font-family="Antykwa Torunska" font-size="14.00">LSF Guides</text>
+<polygon fill="none" stroke="black" points="919.248,-616.297 829.283,-588.352 919.248,-560.407 1009.21,-588.352 919.248,-616.297"/>
+<text text-anchor="middle" x="919.248" y="-587.013" font-family="Antykwa Torunska" font-size="14.00">LSF Guides</text>
 </a>
 </g>
 </g>
 <!-- as&#45;&gt;LSF Guides -->
 <g id="edge7" class="edge"><title>as&#45;&gt;LSF Guides</title>
-<path fill="none" stroke="black" d="M718.764,-737.092C736.134,-731.14 752.98,-722.439 766.006,-709.737 785.395,-690.83 766.403,-671.719 784.681,-651.737 794.258,-641.267 807.023,-633.44 820.065,-627.625"/>
-<polygon fill="black" stroke="black" points="821.639,-630.763 829.569,-623.737 818.988,-624.284 821.639,-630.763"/>
+<path fill="none" stroke="black" d="M718.89,-756.696C736.573,-750.426 753.54,-741.124 766.099,-727.352 792.42,-698.489 759.034,-671.204 784.228,-641.352 801.035,-621.437 826.35,-608.954 850.467,-601.152"/>
+<polygon fill="black" stroke="black" points="851.771,-604.415 860.342,-598.187 849.758,-597.711 851.771,-604.415"/>
 </g>
 <!-- Writing | Drab Makyo -->
 <g id="node12" class="node"><title>Writing | Drab Makyo</title>
 <g id="a_node12"><a xlink:href="http://writing.drab-makyo.com" xlink:title="Writing | Drab Makyo">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-542.737" rx="112.497" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-541.398" font-family="Antykwa Torunska" font-size="14.00">Writing | Drab Makyo</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-557.352" rx="112.497" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-556.013" font-family="Antykwa Torunska" font-size="14.00">Writing | Drab Makyo</text>
 </a>
 </g>
 </g>
 <!-- Drab Makyo&#45;&gt;Writing | Drab Makyo -->
 <g id="edge11" class="edge"><title>Drab Makyo&#45;&gt;Writing | Drab Makyo</title>
-<path fill="none" stroke="black" d="M386.717,-486.073C432.568,-496.834 499.677,-512.584 551.512,-524.749"/>
-<polygon fill="black" stroke="black" points="550.799,-528.177 561.334,-527.055 552.399,-521.362 550.799,-528.177"/>
+<path fill="none" stroke="black" d="M386.133,-498.882C432.36,-510.046 500.58,-526.52 552.834,-539.14"/>
+<polygon fill="black" stroke="black" points="552.186,-542.584 562.729,-541.529 553.83,-535.779 552.186,-542.584"/>
 </g>
 <!-- Photography | Drab Makyo -->
 <g id="node13" class="node"><title>Photography | Drab Makyo</title>
 <g id="a_node13"><a xlink:href="http://makyo.photography" xlink:title="Photography | Drab Makyo">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-473.737" rx="136.702" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-472.398" font-family="Antykwa Torunska" font-size="14.00">Photography | Drab Makyo</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-486.352" rx="136.702" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-485.013" font-family="Antykwa Torunska" font-size="14.00">Photography | Drab Makyo</text>
 </a>
 </g>
 </g>
 <!-- Drab Makyo&#45;&gt;Photography | Drab Makyo -->
 <g id="edge12" class="edge"><title>Drab Makyo&#45;&gt;Photography | Drab Makyo</title>
-<path fill="none" stroke="black" d="M401.605,-473.737C425.612,-473.737 453.669,-473.737 481.7,-473.737"/>
-<polygon fill="black" stroke="black" points="482.019,-477.237 492.019,-473.737 482.019,-470.237 482.019,-477.237"/>
+<path fill="none" stroke="black" d="M401.698,-486.352C425.705,-486.352 453.762,-486.352 481.794,-486.352"/>
+<polygon fill="black" stroke="black" points="482.112,-489.852 492.112,-486.352 482.112,-482.852 482.112,-489.852"/>
 </g>
 <!-- IdeaWheel -->
 <g id="node15" class="node"><title>IdeaWheel</title>
 <g id="a_node15"><a xlink:href="http://ideas.jnsq.us" xlink:title="IdeaWheel">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-404.737" rx="60.0369" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-403.398" font-family="Antykwa Torunska" font-size="14.00">IdeaWheel</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-415.352" rx="60.0369" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-414.013" font-family="Antykwa Torunska" font-size="14.00">IdeaWheel</text>
 </a>
 </g>
 </g>
 <!-- JNSQ&#45;&gt;IdeaWheel -->
 <g id="edge14" class="edge"><title>JNSQ&#45;&gt;IdeaWheel</title>
-<path fill="none" stroke="black" d="M366.742,-343.385C415.743,-354.885 509.131,-376.803 569.999,-391.088"/>
-<polygon fill="black" stroke="black" points="569.314,-394.522 579.849,-393.4 570.913,-387.708 569.314,-394.522"/>
+<path fill="none" stroke="black" d="M366.553,-353.043C415.584,-364.717 509.519,-387.083 570.494,-401.601"/>
+<polygon fill="black" stroke="black" points="569.819,-405.038 580.357,-403.949 571.44,-398.228 569.819,-405.038"/>
 </g>
 <!-- Warren -->
 <g id="node16" class="node"><title>Warren</title>
 <g id="a_node16"><a xlink:href="https://warren.community" xlink:title="Warren">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-335.737" rx="46.1111" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-334.398" font-family="Antykwa Torunska" font-size="14.00">Warren</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-345.352" rx="46.1111" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-344.013" font-family="Antykwa Torunska" font-size="14.00">Warren</text>
 </a>
 </g>
 </g>
 <!-- JNSQ&#45;&gt;Warren -->
 <g id="edge15" class="edge"><title>JNSQ&#45;&gt;Warren</title>
-<path fill="none" stroke="black" d="M369.326,-335.737C419.755,-335.737 513.092,-335.737 572.824,-335.737"/>
-<polygon fill="black" stroke="black" points="572.838,-339.237 582.838,-335.737 572.838,-332.237 572.838,-339.237"/>
+<path fill="none" stroke="black" d="M369.42,-345.352C419.848,-345.352 513.185,-345.352 572.917,-345.352"/>
+<polygon fill="black" stroke="black" points="572.931,-348.852 582.931,-345.352 572.931,-341.852 572.931,-348.852"/>
 </g>
 <!-- Trans Stock Photography -->
 <g id="node17" class="node"><title>Trans Stock Photography</title>
 <g id="a_node17"><a xlink:href="http://transstock.photography" xlink:title="Trans Stock Photography">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-266.737" rx="128.67" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-265.398" font-family="Antykwa Torunska" font-size="14.00">Trans Stock Photography</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-274.352" rx="128.67" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-273.013" font-family="Antykwa Torunska" font-size="14.00">Trans Stock Photography</text>
 </a>
 </g>
 </g>
 <!-- JNSQ&#45;&gt;Trans Stock Photography -->
 <g id="edge16" class="edge"><title>JNSQ&#45;&gt;Trans Stock Photography</title>
-<path fill="none" stroke="black" d="M366.742,-328.089C410.29,-317.869 488.898,-299.42 548.579,-285.413"/>
-<polygon fill="black" stroke="black" points="549.425,-288.81 558.361,-283.117 547.825,-281.995 549.425,-288.81"/>
+<path fill="none" stroke="black" d="M366.553,-337.55C410.356,-326.972 489.997,-307.739 549.959,-293.258"/>
+<polygon fill="black" stroke="black" points="550.882,-296.636 559.781,-290.887 549.239,-289.832 550.882,-296.636"/>
 </g>
 <!-- polycul.es -->
 <g id="node18" class="node"><title>polycul.es</title>
 <g id="a_node18"><a xlink:href="http://polycul.es" xlink:title="polycul.es">
-<ellipse fill="none" stroke="black" cx="629.155" cy="-197.737" rx="55.3529" ry="19.7049"/>
-<text text-anchor="middle" x="629.155" y="-196.398" font-family="Antykwa Torunska" font-size="14.00">polycul.es</text>
+<ellipse fill="none" stroke="black" cx="629.248" cy="-203.352" rx="55.3529" ry="19.7049"/>
+<text text-anchor="middle" x="629.248" y="-202.013" font-family="Antykwa Torunska" font-size="14.00">polycul.es</text>
 </a>
 </g>
 </g>
 <!-- JNSQ&#45;&gt;polycul.es -->
 <g id="edge17" class="edge"><title>JNSQ&#45;&gt;polycul.es</title>
-<path fill="none" stroke="black" d="M369.519,-334.708C400.95,-331.91 446.13,-322.981 474.089,-295.737 493.44,-276.88 473.028,-256.67 492.305,-237.737 511.583,-218.801 539.349,-208.752 564.761,-203.449"/>
-<polygon fill="black" stroke="black" points="565.548,-206.863 574.731,-201.578 564.257,-199.983 565.548,-206.863"/>
+<path fill="none" stroke="black" d="M369.342,-343.797C400.808,-340.545 446.206,-330.975 474.182,-303.352 493.409,-284.368 473.25,-264.415 492.398,-245.352 511.704,-226.132 539.609,-215.678 565.112,-210.003"/>
+<polygon fill="black" stroke="black" points="566.004,-213.394 575.115,-207.987 564.62,-206.532 566.004,-213.394"/>
 </g>
 <!-- GitHub -->
 <g id="node21" class="node"><title>GitHub</title>
-<polygon fill="none" stroke="black" points="629.155,-147.682 567.403,-119.737 629.155,-91.7919 690.907,-119.737 629.155,-147.682"/>
-<text text-anchor="middle" x="629.155" y="-118.398" font-family="Antykwa Torunska" font-size="14.00">GitHub</text>
+<polygon fill="none" stroke="black" points="629.248,-150.297 567.496,-122.352 629.248,-94.4067 691.001,-122.352 629.248,-150.297"/>
+<text text-anchor="middle" x="629.248" y="-121.013" font-family="Antykwa Torunska" font-size="14.00">GitHub</text>
 </g>
 <!-- IP accounts&#45;&gt;GitHub -->
 <g id="edge20" class="edge"><title>IP accounts&#45;&gt;GitHub</title>
-<path fill="none" stroke="black" d="M423.962,-119.737C466.682,-119.737 517.037,-119.737 557.052,-119.737"/>
-<polygon fill="black" stroke="black" points="557.255,-123.237 567.255,-119.737 557.255,-116.237 557.255,-123.237"/>
+<path fill="none" stroke="black" d="M424.056,-122.352C466.775,-122.352 517.13,-122.352 557.145,-122.352"/>
+<polygon fill="black" stroke="black" points="557.348,-125.852 567.348,-122.352 557.348,-118.852 557.348,-125.852"/>
 </g>
 <!-- Launchpad -->
 <g id="node26" class="node"><title>Launchpad</title>
 <g id="a_node26"><a xlink:href="https://launchpad.net/~makyo" xlink:title="Launchpad">
-<polygon fill="none" stroke="black" points="672.258,-60.7371 586.053,-60.7371 586.053,-24.7371 672.258,-24.7371 672.258,-60.7371"/>
-<text text-anchor="middle" x="629.155" y="-41.3979" font-family="Antykwa Torunska" font-size="14.00">Launchpad</text>
+<polygon fill="none" stroke="black" points="672.351,-61.3518 586.146,-61.3518 586.146,-25.3518 672.351,-25.3518 672.351,-61.3518"/>
+<text text-anchor="middle" x="629.248" y="-42.0127" font-family="Antykwa Torunska" font-size="14.00">Launchpad</text>
 </a>
 </g>
 </g>
 <!-- IP accounts&#45;&gt;Launchpad -->
 <g id="edge25" class="edge"><title>IP accounts&#45;&gt;Launchpad</title>
-<path fill="none" stroke="black" d="M382.703,-107.022C435.981,-93.0684 521.191,-70.7515 575.898,-56.4234"/>
-<polygon fill="black" stroke="black" points="576.957,-59.7643 585.744,-53.8449 575.183,-52.9927 576.957,-59.7643"/>
+<path fill="none" stroke="black" d="M382.139,-109.483C435.445,-95.1596 521.297,-72.0905 576.22,-57.3322"/>
+<polygon fill="black" stroke="black" points="577.352,-60.6524 586.101,-54.6772 575.535,-53.8922 577.352,-60.6524"/>
 </g>
 <!-- Makyo @ GitHub -->
 <g id="node22" class="node"><title>Makyo @ GitHub</title>
 <g id="a_node22"><a xlink:href="https://github.com/makyo" xlink:title="Makyo @ GitHub">
-<polygon fill="none" stroke="black" points="944.573,-235.737 815.738,-235.737 815.738,-199.737 944.573,-199.737 944.573,-235.737"/>
-<text text-anchor="middle" x="880.155" y="-216.398" font-family="Antykwa Torunska" font-size="14.00">Makyo @ GitHub</text>
+<polygon fill="none" stroke="black" points="983.666,-241.352 854.831,-241.352 854.831,-205.352 983.666,-205.352 983.666,-241.352"/>
+<text text-anchor="middle" x="919.248" y="-222.013" font-family="Antykwa Torunska" font-size="14.00">Makyo @ GitHub</text>
 </a>
 </g>
 </g>
 <!-- GitHub&#45;&gt;Makyo @ GitHub -->
 <g id="edge21" class="edge"><title>GitHub&#45;&gt;Makyo @ GitHub</title>
-<path fill="none" stroke="black" d="M666.647,-130.851C694.429,-139.799 733.329,-153.384 766.006,-168.737 774.725,-172.833 776.038,-175.483 784.681,-179.737 796.071,-185.343 808.504,-190.793 820.498,-195.735"/>
-<polygon fill="black" stroke="black" points="819.413,-199.071 829.996,-199.582 822.041,-192.583 819.413,-199.071"/>
+<path fill="none" stroke="black" d="M664.388,-134.396C692.083,-144.411 731.984,-159.395 766.099,-174.352 774.338,-177.964 775.859,-180.053 784.228,-183.352 803.642,-191.003 825.124,-198.025 845.098,-203.978"/>
+<polygon fill="black" stroke="black" points="844.186,-207.358 854.767,-206.812 846.156,-200.64 844.186,-207.358"/>
 </g>
 <!-- [a][s] @ GitHub -->
 <g id="node23" class="node"><title>[a][s] @ GitHub</title>
 <g id="a_node23"><a xlink:href="https://github.com/adjspecies" xlink:title="[a][s] @ GitHub">
-<polygon fill="none" stroke="black" points="936.596,-170.737 823.715,-170.737 823.715,-134.737 936.596,-134.737 936.596,-170.737"/>
-<text text-anchor="middle" x="880.155" y="-151.398" font-family="Antykwa Torunska" font-size="14.00">[a][s] @ GitHub</text>
+<polygon fill="none" stroke="black" points="975.689,-174.352 862.808,-174.352 862.808,-138.352 975.689,-138.352 975.689,-174.352"/>
+<text text-anchor="middle" x="919.248" y="-155.013" font-family="Antykwa Torunska" font-size="14.00">[a][s] @ GitHub</text>
 </a>
 </g>
 </g>
 <!-- GitHub&#45;&gt;[a][s] @ GitHub -->
 <g id="edge22" class="edge"><title>GitHub&#45;&gt;[a][s] @ GitHub</title>
-<path fill="none" stroke="black" d="M677.283,-125.983C715.789,-131.086 770.653,-138.357 813.469,-144.032"/>
-<polygon fill="black" stroke="black" points="813.147,-147.519 823.52,-145.364 814.067,-140.58 813.147,-147.519"/>
+<path fill="none" stroke="black" d="M678.453,-128.043C726.216,-133.681 799.712,-142.358 852.749,-148.619"/>
+<polygon fill="black" stroke="black" points="852.394,-152.102 862.736,-149.798 853.215,-145.15 852.394,-152.102"/>
 </g>
 <!-- OpenFurry @ GitHub -->
 <g id="node24" class="node"><title>OpenFurry @ GitHub</title>
 <g id="a_node24"><a xlink:href="https://github.com/openfurry" xlink:title="OpenFurry @ GitHub">
-<polygon fill="none" stroke="black" points="958.08,-104.737 802.23,-104.737 802.23,-68.7371 958.08,-68.7371 958.08,-104.737"/>
-<text text-anchor="middle" x="880.155" y="-85.3979" font-family="Antykwa Torunska" font-size="14.00">OpenFurry @ GitHub</text>
+<polygon fill="none" stroke="black" points="997.173,-107.352 841.324,-107.352 841.324,-71.3518 997.173,-71.3518 997.173,-107.352"/>
+<text text-anchor="middle" x="919.248" y="-88.0127" font-family="Antykwa Torunska" font-size="14.00">OpenFurry @ GitHub</text>
 </a>
 </g>
 </g>
 <!-- GitHub&#45;&gt;OpenFurry @ GitHub -->
 <g id="edge23" class="edge"><title>GitHub&#45;&gt;OpenFurry @ GitHub</title>
-<path fill="none" stroke="black" d="M677.283,-113.491C709.51,-109.22 753.196,-103.43 791.687,-98.3292"/>
-<polygon fill="black" stroke="black" points="792.417,-101.763 801.87,-96.9797 791.497,-94.8239 792.417,-101.763"/>
+<path fill="none" stroke="black" d="M678.778,-116.791C720.321,-112.031 781.159,-105.06 831.117,-99.3357"/>
+<polygon fill="black" stroke="black" points="831.741,-102.787 841.277,-98.1714 830.944,-95.8326 831.741,-102.787"/>
 </g>
 <!-- Warren @ GitHub -->
 <g id="node25" class="node"><title>Warren @ GitHub</title>
 <g id="a_node25"><a xlink:href="https://github.com/warren-community" xlink:title="Warren @ GitHub">
-<polygon fill="none" stroke="black" points="947.036,-39.7371 813.275,-39.7371 813.275,-3.73705 947.036,-3.73705 947.036,-39.7371"/>
-<text text-anchor="middle" x="880.155" y="-20.3979" font-family="Antykwa Torunska" font-size="14.00">Warren @ GitHub</text>
+<polygon fill="none" stroke="black" points="986.129,-40.3518 852.368,-40.3518 852.368,-4.35183 986.129,-4.35183 986.129,-40.3518"/>
+<text text-anchor="middle" x="919.248" y="-21.0127" font-family="Antykwa Torunska" font-size="14.00">Warren @ GitHub</text>
 </a>
 </g>
 </g>
 <!-- GitHub&#45;&gt;Warren @ GitHub -->
 <g id="edge24" class="edge"><title>GitHub&#45;&gt;Warren @ GitHub</title>
-<path fill="none" stroke="black" d="M665.593,-108.206C693.325,-98.8223 732.649,-84.719 766.006,-69.7371 774.595,-65.8795 776.151,-63.722 784.681,-59.7371 796.552,-54.1919 809.467,-48.6727 821.827,-43.6292"/>
-<polygon fill="black" stroke="black" points="823.178,-46.8581 831.144,-39.8725 820.56,-40.366 823.178,-46.8581"/>
+<path fill="none" stroke="black" d="M663.93,-109.994C691.533,-99.7381 731.538,-84.5816 766.099,-70.3518 774.243,-66.9989 775.964,-65.395 784.228,-62.3518 802.941,-55.4613 823.44,-48.8752 842.654,-43.1074"/>
+<polygon fill="black" stroke="black" points="843.675,-46.4552 852.267,-40.2565 841.685,-39.7441 843.675,-46.4552"/>
 </g>
 <!-- Organization -->
 <g id="node27" class="node"><title>Organization</title>
-<ellipse fill="none" stroke="black" cx="87.1552" cy="-826.737" rx="69.6719" ry="19.7049"/>
-<text text-anchor="middle" x="87.1552" y="-825.398" font-family="Antykwa Torunska" font-size="14.00">Organization</text>
+<ellipse fill="none" stroke="black" cx="87.2484" cy="-848.352" rx="69.6719" ry="19.7049"/>
+<text text-anchor="middle" x="87.2484" y="-847.013" font-family="Antykwa Torunska" font-size="14.00">Organization</text>
 </g>
 <!-- Collection of assets -->
 <g id="node28" class="node"><title>Collection of assets</title>
-<polygon fill="none" stroke="black" points="333.155,-854.682 192.288,-826.737 333.155,-798.792 474.022,-826.737 333.155,-854.682"/>
-<text text-anchor="middle" x="333.155" y="-825.398" font-family="Antykwa Torunska" font-size="14.00">Collection of assets</text>
+<polygon fill="none" stroke="black" points="333.248,-876.297 192.381,-848.352 333.248,-820.407 474.116,-848.352 333.248,-876.297"/>
+<text text-anchor="middle" x="333.248" y="-847.013" font-family="Antykwa Torunska" font-size="14.00">Collection of assets</text>
 </g>
 <!-- Organization&#45;&gt;Collection of assets -->
 <!-- Account on external service -->
 <g id="node29" class="node"><title>Account on external service</title>
-<polygon fill="none" stroke="black" points="727.044,-844.737 531.266,-844.737 531.266,-808.737 727.044,-808.737 727.044,-844.737"/>
-<text text-anchor="middle" x="629.155" y="-825.398" font-family="Antykwa Torunska" font-size="14.00">Account on external service</text>
+<polygon fill="none" stroke="black" points="727.137,-866.352 531.359,-866.352 531.359,-830.352 727.137,-830.352 727.137,-866.352"/>
+<text text-anchor="middle" x="629.248" y="-847.013" font-family="Antykwa Torunska" font-size="14.00">Account on external service</text>
 </g>
 <!-- Collection of assets&#45;&gt;Account on external service -->
 </g>

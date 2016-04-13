@@ -10,19 +10,19 @@ digraph agalmic_holdings {
 		as [URL="http://adjectivespecies.com" label="[adjective][species], Ltd."]
 		"OpenFurry" -> as
 
-			"[a][s] Blog" [URL="http://adjectivespecies.com"]
+			"[a][s] Blog" [shape="diamond" URL="http://adjectivespecies.com"]
 			as -> "[a][s] Blog"
 
-			"[a][s] Visualizations" [URL="http://vis.adjectivespecies.com"]
+			"[a][s] Visualizations" [shape="diamond" URL="http://vis.adjectivespecies.com"]
 			as -> "[a][s] Visualizations"
 
-			"The Furry Poll" [URL="https://furrypoll.com"]
+			"The Furry Poll" [shape="diamond" URL="https://furrypoll.com"]
 			as -> "The Furry Poll"
 
-			"Love ◦ Sex ◦ Fur" [URL="http://lovesexfur.com"]
+			"Love ◦ Sex ◦ Fur" [shape="diamond" URL="http://lovesexfur.com"]
 			as -> "Love ◦ Sex ◦ Fur"
 
-			"LSF Guides" [URL="http://guides.lovesexfur.com"]
+			"LSF Guides" [shape="diamond" URL="http://guides.lovesexfur.com"]
 			as -> "LSF Guides"
 
 		"Hybrid" [URL="http://hybrid.ink"]
