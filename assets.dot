@@ -35,7 +35,7 @@ digraph agalmic_holdings {
 		"OpenFurry" -> "Honeycomb"
 
 		"IdeaWheel" [URL="http://ideas.openfurry.org"]
-		"JNSQ" -> "IdeaWheel"
+		"OpenFurry" -> "IdeaWheel"
 
 	"Drab Makyo" [URL="http://drab-makyo.com"]
 	"agalmic.holdings" -> "Drab Makyo"
