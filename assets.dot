@@ -10,8 +10,8 @@ digraph agalmic_holdings {
 		as [URL="http://adjectivespecies.com" label="[adjective][species], Ltd."]
 		"OpenFurry" -> as
 
-			"[a][s] Blog" [shape="diamond" URL="http://adjectivespecies.com"]
-			as -> "[a][s] Blog"
+			"[a][s] Data" [shape="diamond" URL="http://adjectivespecies.com"]
+			as -> "[a][s] Data"
 
 			"[a][s] Visualizations" [shape="diamond" URL="http://vis.adjectivespecies.com"]
 			as -> "[a][s] Visualizations"
@@ -25,11 +25,17 @@ digraph agalmic_holdings {
 			"LSF Guides" [shape="diamond" URL="http://guides.lovesexfur.com"]
 			as -> "LSF Guides"
 
-		"Hybrid" [URL="http://hybrid.ink"]
-		"OpenFurry" -> "Hybrid"
+			"Hybrid" [shape="diamond" URL="http://hybrid.ink"]
+			as -> "Hybrid"
 
 		"Characters" [URL="http://characters.openfurry.org"]
 		"OpenFurry" -> "Characters"
+
+		"Honeycomb" [URL="https://honeycomb.cafe"]
+		"OpenFurry" -> "Honeycomb"
+
+		"IdeaWheel" [URL="http://ideas.openfurry.org"]
+		"JNSQ" -> "IdeaWheel"
 
 	"Drab Makyo" [URL="http://drab-makyo.com"]
 	"agalmic.holdings" -> "Drab Makyo"
@@ -42,9 +48,6 @@ digraph agalmic_holdings {
 
 	"JNSQ" [URL="http://jnsq.us"]
 	"agalmic.holdings" -> "JNSQ"
-
-		"IdeaWheel" [URL="http://ideas.jnsq.us"]
-		"JNSQ" -> "IdeaWheel"
 
 		"Warren" [URL="https://warren.community"]
 		"JNSQ" -> "Warren"
