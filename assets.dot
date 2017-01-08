@@ -61,6 +61,15 @@ digraph agalmic_holdings {
 	"ARTEMIS PRODUCTIONS" [URL="http://artemis.productions"]
 	"agalmic.holdings" -> "ARTEMIS PRODUCTIONS"
 
+	"Post-Self" [URL="http://post-self.io"]
+	"agalmic.holdings" -> "Post-Self"
+
+		"Exocortices" [URL="http://exocortic.es"]
+		"Post-Self" -> "Exocortices"
+
+		"Qoheleth"
+		"Post-Self" -> "Qoheleth"
+
 	"IP accounts" [shape="diamond"]
 	"agalmic.holdings" -> "IP accounts"
 
@@ -76,6 +85,9 @@ digraph agalmic_holdings {
 			"OpenFurry @ GitHub" [URL="https://github.com/openfurry" shape="rect"]
 			"GitHub" -> "OpenFurry @ GitHub"
 
+			"Post-Self @ GitHub" [URL="https://github.com/post-self" shape="rect"]
+			"GitHub" -> "Post-Self @ GitHub"
+
 			"Warren @ GitHub" [URL="https://github.com/warren-community" shape="rect"]
 			"GitHub" -> "Warren @ GitHub"
 
@@ -83,17 +95,17 @@ digraph agalmic_holdings {
 		"IP accounts" -> "Launchpad"
 
 	subgraph cluster {
-		label = "Legend"
-		ranksep = ".1"
-		rankdir = "LR"
+		label="Legend"
+		ranksep=".1"
+		rankdir="TB"
 		edge [style="invis"]
 
-		"Organization"
+		"Organization or Project"
 
 		"Collection of assets" [shape="diamond"]
 
 		"Account on external service" [shape="rect"]
 
-		"Organization" -> "Collection of assets" -> "Account on external service"
+		"Organization or Project" -> "Collection of assets" -> "Account on external service"
 	}
 }
